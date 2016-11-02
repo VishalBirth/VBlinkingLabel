@@ -1,0 +1,16 @@
+PODS:
+  - VBlinkingLabel (0.1.0)
+
+DEPENDENCIES:
+  - VBlinkingLabel (from `../`)
+
+EXTERNAL SOURCES:
+  VBlinkingLabel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  VBlinkingLabel: 8f0a424bd59725ec90e7048aed489ca71d9ab1f2
+
+PODFILE CHECKSUM: 7dbce42086f42db5e965f7c489a5aa87dbbff805
+
+COCOAPODS: 1.0.1

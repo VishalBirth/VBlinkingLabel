@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'VBlinkingLabel'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of VBlinkingLabel.'
+  s.summary          = 'VBlinkingLabel is a subclass on UILabel that provides a blinking feature to label.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Now you can create your own Blinking label using VBlinkingLabel. It has complete features of blinking, you can start and stop label blinking feature anytime. 
                        DESC
 
   s.homepage         = 'https://github.com/<GITHUB_USERNAME>/VBlinkingLabel'

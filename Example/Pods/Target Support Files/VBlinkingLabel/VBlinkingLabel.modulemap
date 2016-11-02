@@ -1,0 +1,6 @@
+framework module VBlinkingLabel {
+  umbrella header "VBlinkingLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}
